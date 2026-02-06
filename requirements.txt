@@ -1,0 +1,9 @@
+streamlit>=1.31.0
+langchain>=0.1.0
+langchain-openai>=0.0.5
+azure-ai-contentsafety>=1.0.0
+azure-search-documents>=11.4.0
+azure-storage-blob>=12.19.0
+python-dotenv>=1.0.0
+pandas>=2.1.0
+pytest>=7.4.0
