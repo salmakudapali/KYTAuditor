@@ -150,32 +150,6 @@ report = ReportAgent()
 audit_report = report.generate_report(forensic_results, compliance_results, transactions)
 ```
 
-## Demo Script
-
-### 1. Opening (30 seconds)
-> "We built an Autonomous KYT Auditor that uses three specialized AI agents to detect suspicious transactions while ensuring responsible AI practices."
-
-### 2. Live Demo (3 minutes)
-1. **Load sample transactions** - Show the UI
-2. **Run analysis** - Watch agents work in real-time
-3. **Show sanctions match** - High-risk detection
-4. **Display audit trail** - Complete documentation
-5. **Content Safety check** - Bias detection results
-
-### 3. Technical Deep-Dive (1 minute)
-- Multi-agent LangChain architecture
-- Azure OpenAI for reasoning
-- Azure AI Search for sanctions/policies
-- Azure Content Safety for Responsible AI
-
-### 4. Business Impact (30 seconds)
-> "Banks lose billions to false positives. Our solution provides explainable, auditable AI decisions that reduce false positives while maintaining compliance."
-
-## Team
-- Person 1: Backend/AI Lead
-- Person 2: Data & Integration
-- Person 3: Frontend & Demo
-
 ## License
 MIT License
 
@@ -183,3 +157,4 @@ MIT License
 - Azure OpenAI Service
 - LangChain Framework
 - Streamlit
+
