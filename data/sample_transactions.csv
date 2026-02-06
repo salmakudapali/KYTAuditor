@@ -1,0 +1,16 @@
+id,account_id,transaction_date,amount,currency,type,sender_name,receiver_name,country,description
+TXN001,ACC001,2024-01-15,9500.00,USD,wire_transfer,John Smith,ACME Shell Corporation,US,Business payment
+TXN002,ACC001,2024-01-15,9400.00,USD,wire_transfer,John Smith,ACME Holdings,US,Investment transfer
+TXN003,ACC001,2024-01-16,9600.00,USD,wire_transfer,John Smith,Various LLC,US,Operating expenses
+TXN004,ACC002,2024-01-17,25000.00,USD,wire_transfer,Jane Doe,Legitimate Corp,US,Real estate payment
+TXN005,ACC003,2024-01-18,5000.00,USD,cash_deposit,Robert Johnson,,US,Cash deposit
+TXN006,ACC003,2024-01-18,4500.00,USD,cash_deposit,Robert Johnson,,US,Cash deposit
+TXN007,ACC003,2024-01-19,4800.00,USD,cash_deposit,Robert Johnson,,US,Cash deposit
+TXN008,ACC004,2024-01-20,150000.00,USD,wire_transfer,Corporate Inc,Offshore Trust Ltd,KY,Investment
+TXN009,ACC005,2024-01-21,3500.00,USD,wire_transfer,Small Business,Vendor ABC,US,Supply payment
+TXN010,ACC006,2024-01-22,50000.00,USD,wire_transfer,Import Co,Shadow Finance Group,RU,Trade finance
+TXN011,ACC007,2024-01-23,8000.00,USD,wire_transfer,Local Store,Supplier Inc,US,Inventory
+TXN012,ACC008,2024-01-24,12000.00,USD,cash_withdrawal,Cash Heavy LLC,,US,Operating cash
+TXN013,ACC009,2024-01-25,9999.00,USD,wire_transfer,Suspicious LLC,Unknown Entity,PA,Unspecified
+TXN014,ACC010,2024-01-26,75000.00,USD,wire_transfer,Real Estate Co,Title Company,US,Property purchase
+TXN015,ACC011,2024-01-27,4000.00,USD,wire_transfer,Regular Customer,Normal Vendor,US,Monthly payment
